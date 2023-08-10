@@ -3,10 +3,10 @@
 .output.js
 /node_modules/**
 
-**/*.md
+# **/*.md
 **/*.svg
 **/*.ejs
-**/*.json
+# **/*.json
 **/*.sh
 
 /public/*
