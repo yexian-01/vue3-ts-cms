@@ -15,5 +15,9 @@ module.exports = {
   },
   rules: {
     '@typescript-eslint/no-unused-vars': 'off'
+    // 'no-undef': 'off'
+  },
+  env: {
+    node: true
   }
 }
